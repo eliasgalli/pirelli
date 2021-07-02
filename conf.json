@@ -1,0 +1,8 @@
+{
+	"BD": "ERP0002",
+	"BDPath": "E/SQLEXPRESS",
+	"BDUsuario": "sa",
+	"BDPassword": "sa2008",
+	"SRVPuerto": 8080,
+	"SRVCantDiasAtras": 30
+}
